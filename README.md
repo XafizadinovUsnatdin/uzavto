@@ -70,3 +70,9 @@ Virtual muhit yarating va kutubxonalarni o‘rnating:
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+📌 Eslatma
+Ma’lumotlar sun’iy ravishda yaratilgan va faqat o‘quv/test maqsadida ishlatiladi.
+
+👨‍💻 Jamoa:
+TAHLILCHI

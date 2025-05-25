@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Fayl yo'llari
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # D:\projects\s6\
-CSV_PATH = os.path.join(BASE_DIR, 'data', 'uzauto_dataset_mantiqiy.csv')  # D:\projects\s6\data\uzauto_dataset_mantiqiy.csv
+CSV_PATH = os.path.join(BASE_DIR, 'data', 'daily_car_sales.csv')  # D:\projects\s6\data\daily_car_sales.csv
 MODELS_DIR = os.path.join(BASE_DIR, 'models')
 
 def ensure_directories():

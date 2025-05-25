@@ -1,46 +1,67 @@
 import json
 import os
+import csv
 
-# To‘g‘ri direktoriya yo‘li
+# To‘g‘ri yo‘llar
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FORECAST_DIR = os.path.join(BASE_DIR, 'future_sales_monthly')
-OUTPUT_DIR = os.path.join(BASE_DIR, 'future_sales_monthly')  # Natija shu yerga saqlanadi
-os.makedirs(OUTPUT_DIR, exist_ok=True)  # Agar 'data' papkasi mavjud bo'lmasa, yaratadi
+CSV_FILE = os.path.join(BASE_DIR, 'data','daily_car_sales.csv')
+OUTPUT_FILE = os.path.join(FORECAST_DIR, 'monthly_summary.json')
 
+# CSVdan product_id -> model mappingni olish
+def load_product_models(csv_file):
+    mapping = {}
+    with open(csv_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            try:
+                product_id = int(row['product_id'])
+                model = row['model'].strip()
+                if product_id not in mapping:
+                    mapping[product_id] = model
+            except Exception as e:
+                print(f"⚠️ CSV qatorni o‘qishda xato: {e}")
+    return mapping
+
+# Asosiy funksiya
 def display_monthly_sales():
     months = ['2025-01', '2025-02', '2025-03']
-    results = {}  # Yakuniy natijalar shu yerda to‘planadi
+    results = {}
+    id_to_model = load_product_models(CSV_FILE)
 
     for month in months:
-        json_path = os.path.join(FORECAST_DIR, f'forecast_{month}.json')
-        print(f"Checking file: {json_path}")  # Debug uchun
+        file_path = os.path.join(FORECAST_DIR, f'forecast_{month}.json')
+        print(f"✅ Tekshirilmoqda: {file_path}")
 
-        if not os.path.exists(json_path):
-            print(f"❌ JSON fayl topilmadi: {json_path}")
+        if not os.path.exists(file_path):
+            print(f"❌ JSON fayl topilmadi: {file_path}")
             continue
 
-        try:
-            with open(json_path, 'r') as f:
-                forecast_data = json.load(f)
-        except Exception as e:
-            print(f"❌ JSON faylni o'qishda xato ({month}): {e}")
-            continue
+        with open(file_path, 'r') as f:
+            forecast_data = json.load(f)
 
         monthly_result = {}
-        for product_id, data in forecast_data.items():
-            monthly_total = sum(item['predicted_quantity'] for item in data['forecast'])
-            monthly_result[product_id] = int(round(monthly_total))
-            print(f"Mahsulot ID: {product_id}, Bashorat qilingan umumiy sotuv: {int(round(monthly_total))} dona")
+        for product_id_str, data in forecast_data.items():
+            try:
+                product_id = int(product_id_str)
+                model_name = id_to_model.get(product_id)
+                if not model_name:
+                    print(f"⚠️ Model topilmadi: product_id = {product_id}")
+                    continue
+                total = sum(item['predicted_quantity'] for item in data['forecast'])
+                monthly_result[model_name] = int(round(total))
+                print(f" {model_name}: {int(round(total))} dona")
+            except Exception as e:
+                print(f"⚠️ Xatolik: {e}")
 
         results[month] = monthly_result
-        print("-" * 50)
+        print('-' * 40)
 
-    # Natijalarni 'data/monthly_summary.json' faylga saqlash
-    output_path = os.path.join(OUTPUT_DIR, 'monthly_summary.json')
-    with open(output_path, 'w') as out_file:
-        json.dump(results, out_file, indent=4)
+    # JSON formatda saqlash
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=4, ensure_ascii=False)
 
-    print(f"\n✅ Natijalar saqlandi: {output_path}")
+    print(f"\n✅ Natijalar saqlandi: {OUTPUT_FILE}")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     display_monthly_sales()

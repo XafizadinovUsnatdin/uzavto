@@ -8,7 +8,7 @@ import os
 
 # Fayl yo'llari
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # D:\projects\s6\
-CSV_PATH = os.path.join(BASE_DIR, 'data', 'uzauto_dataset_mantiqiy.csv')  # D:\projects\s6\forecast_by_car_sales\data\uzauto_dataset_mantiqiy.csv
+CSV_PATH = os.path.join(BASE_DIR, 'data', 'daily_car_sales.csv')  # D:\projects\s6\forecast_by_car_sales\data\daily_car_sales.csv
 MODELS_DIR = os.path.join(BASE_DIR, 'models')
 FORECAST_DIR = os.path.join(BASE_DIR, 'future_sales_monthly')
 

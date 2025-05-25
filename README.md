@@ -21,6 +21,7 @@ Maqsadi (yangi mashina ko‘rish, servis, test drive, hujjatlar, va h.k.)
 
 Bu loyiha — avtosalonga tashrif buyuruvchi mijozlar, mavjud avtomobillar va kundalik sotuvlar asosida statistik tahlil va prognoz qilish imkonini beruvchi tizimdir. Loyihada foydalanuvchi uchun tushunarli vizualizatsiyalar, tahlillar va kelajak sotuvlarini bashorat qilish imkoniyati mavjud.
 
-sayt manzili : (soon)
+sayt manzili : http://uzauto5a.beget.tech/
+
 
 👨‍💻 Jamoa: TAHLILCHI

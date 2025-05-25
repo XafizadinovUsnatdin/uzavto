@@ -1,0 +1,898 @@
+id,date,product_id,model,color,variant,quantity
+1,1/1/2024,1,Cobalt,Oq,LT,8
+2,1/1/2024,2,Nexia 3,Oq,SOHC,9
+3,1/1/2024,3,Malibu 2,Kumushrang,Premier,6
+4,1/1/2024,4,Malibu,Kulrang,LS,6
+5,1/1/2024,5,Damas,Oq,Standard,8
+6,1/1/2024,6,Labo,Oq,Standard,5
+7,1/1/2024,8,Equinox,Kumushrang,Premier,2
+8,1/1/2024,9,Onix,Qizil,Premier,3
+9,1/1/2024,10,Gentra,Kulrang,Elegant,4
+10,1/1/2024,11,Spark,Qora,LT,3
+11,1/2/2024,1,Cobalt,Oq,LT,5
+12,1/2/2024,2,Nexia 3,Ko‘k,SOHC,5
+13,1/2/2024,3,Malibu 2,Qora,LTZ,1
+14,1/2/2024,4,Malibu,Oq,LT,10
+15,1/2/2024,5,Damas,Ko‘k,Deluxe,10
+16,1/2/2024,7,Tracker,Qora,Premier,10
+17,1/2/2024,8,Equinox,Qora,RS,1
+18,1/2/2024,9,Onix,Qizil,Premier,9
+19,1/2/2024,10,Gentra,Oq,Comfort,2
+20,1/2/2024,11,Spark,Ko‘k,LT,4
+21,1/3/2024,1,Cobalt,Oq,LS,4
+22,1/3/2024,3,Malibu 2,Kumushrang,LTZ,9
+23,1/3/2024,4,Malibu,Oq,LT,4
+24,1/3/2024,5,Damas,Ko‘k,Deluxe,2
+25,1/3/2024,6,Labo,Oq,Standard,3
+26,1/3/2024,7,Tracker,Qora,Premier,6
+27,1/3/2024,8,Equinox,Kumushrang,RS,7
+28,1/3/2024,9,Onix,Oq,LS,8
+29,1/3/2024,10,Gentra,Qora,Comfort,8
+30,1/3/2024,11,Spark,Oq,LT,2
+31,1/4/2024,1,Cobalt,Oq,LT,9
+32,1/4/2024,2,Nexia 3,Oq,DOHC,7
+33,1/4/2024,3,Malibu 2,Qora,LTZ,4
+34,1/4/2024,4,Malibu,Oq,LT,2
+35,1/4/2024,5,Damas,Ko‘k,Deluxe,9
+36,1/4/2024,6,Labo,Oq,Standard,5
+37,1/4/2024,7,Tracker,Qora,Premier,8
+38,1/4/2024,8,Equinox,Qora,Premier,9
+39,1/4/2024,9,Onix,Qizil,LS,5
+40,1/4/2024,10,Gentra,Qora,Elegant,3
+41,1/5/2024,1,Cobalt,Qora,LS,7
+42,1/5/2024,2,Nexia 3,Oq,SOHC,6
+43,1/5/2024,4,Malibu,Oq,LS,3
+44,1/5/2024,5,Damas,Oq,Deluxe,6
+45,1/5/2024,6,Labo,Oq,Standard,10
+46,1/5/2024,7,Tracker,Qora,Premier,10
+47,1/5/2024,8,Equinox,Qora,RS,1
+48,1/5/2024,9,Onix,Qizil,LT,10
+49,1/5/2024,10,Gentra,Kulrang,Elegant,2
+50,1/5/2024,11,Spark,Qora,LUX,6
+51,1/6/2024,1,Cobalt,Kulrang,LUX,2
+52,1/6/2024,2,Nexia 3,Ko‘k,SOHC,9
+53,1/6/2024,3,Malibu 2,Qora,LTZ,10
+54,1/6/2024,5,Damas,Oq,Deluxe,2
+55,1/6/2024,6,Labo,Oq,Standard,9
+56,1/6/2024,7,Tracker,Qora,Premier,10
+57,1/6/2024,8,Equinox,Qora,Premier,1
+58,1/6/2024,9,Onix,Qizil,LT,5
+59,1/6/2024,10,Gentra,Kulrang,Comfort,5
+60,1/6/2024,11,Spark,Ko‘k,LT,4
+61,1/7/2024,1,Cobalt,Qora,LUX,9
+62,1/7/2024,2,Nexia 3,Ko‘k,SOHC,1
+63,1/7/2024,3,Malibu 2,Qora,Premier,2
+64,1/7/2024,4,Malibu,Kulrang,LS,7
+65,1/7/2024,5,Damas,Oq,Standard,4
+66,1/7/2024,6,Labo,Oq,Standard,9
+67,1/7/2024,7,Tracker,Qora,Premier,8
+68,1/7/2024,8,Equinox,Kumushrang,RS,1
+69,1/7/2024,9,Onix,Qizil,LS,8
+70,1/7/2024,10,Gentra,Oq,Elegant,1
+71,1/7/2024,11,Spark,Qora,LT,10
+72,1/8/2024,1,Cobalt,Qora,LS,5
+73,1/8/2024,2,Nexia 3,Oq,SOHC,4
+74,1/8/2024,3,Malibu 2,Qora,LTZ,8
+75,1/8/2024,4,Malibu,Kulrang,LS,3
+76,1/8/2024,5,Damas,Ko‘k,Deluxe,7
+77,1/8/2024,6,Labo,Oq,Standard,5
+78,1/8/2024,7,Tracker,Kulrang,LT,1
+79,1/8/2024,8,Equinox,Kumushrang,Premier,4
+80,1/8/2024,9,Onix,Oq,Premier,8
+81,1/8/2024,10,Gentra,Qora,Comfort,2
+82,1/8/2024,11,Spark,Oq,LT,7
+83,1/9/2024,1,Cobalt,Kulrang,LT,2
+84,1/9/2024,2,Nexia 3,Qora,DOHC,4
+85,1/9/2024,4,Malibu,Oq,LT,8
+86,1/9/2024,5,Damas,Ko‘k,Deluxe,9
+87,1/9/2024,6,Labo,Oq,Standard,5
+88,1/9/2024,7,Tracker,Kulrang,LT,9
+89,1/9/2024,8,Equinox,Qora,Premier,5
+90,1/9/2024,9,Onix,Oq,LS,10
+91,1/9/2024,10,Gentra,Kulrang,Comfort,3
+92,1/9/2024,11,Spark,Oq,LT,6
+93,1/10/2024,1,Cobalt,Kulrang,LS,10
+94,1/10/2024,2,Nexia 3,Qora,SOHC,1
+95,1/10/2024,3,Malibu 2,Qora,LTZ,1
+96,1/10/2024,4,Malibu,Oq,LS,3
+97,1/10/2024,5,Damas,Oq,Deluxe,8
+98,1/10/2024,6,Labo,Oq,Standard,9
+99,1/10/2024,7,Tracker,Qora,LT,8
+100,1/10/2024,8,Equinox,Kumushrang,RS,3
+101,1/10/2024,9,Onix,Oq,Premier,10
+102,1/10/2024,10,Gentra,Kulrang,Comfort,9
+103,1/10/2024,11,Spark,Qora,LT,6
+104,1/11/2024,1,Cobalt,Oq,LS,6
+105,1/11/2024,3,Malibu 2,Qora,LTZ,3
+106,1/11/2024,4,Malibu,Oq,LT,9
+107,1/11/2024,5,Damas,Oq,Deluxe,4
+108,1/11/2024,7,Tracker,Kulrang,LT,4
+109,1/11/2024,8,Equinox,Kumushrang,RS,4
+110,1/11/2024,9,Onix,Qizil,LT,4
+111,1/11/2024,10,Gentra,Oq,Comfort,1
+112,1/11/2024,11,Spark,Oq,LUX,2
+113,1/12/2024,1,Cobalt,Oq,LUX,9
+114,1/12/2024,3,Malibu 2,Qora,LTZ,8
+115,1/12/2024,4,Malibu,Oq,LT,8
+116,1/12/2024,5,Damas,Ko‘k,Deluxe,10
+117,1/12/2024,6,Labo,Oq,Standard,3
+118,1/12/2024,7,Tracker,Kulrang,Premier,8
+119,1/12/2024,8,Equinox,Qora,Premier,2
+120,1/12/2024,9,Onix,Oq,LT,8
+121,1/12/2024,10,Gentra,Kulrang,Elegant,4
+122,1/12/2024,11,Spark,Oq,LT,4
+123,1/13/2024,1,Cobalt,Oq,LS,1
+124,1/13/2024,2,Nexia 3,Oq,SOHC,4
+125,1/13/2024,3,Malibu 2,Kumushrang,LTZ,5
+126,1/13/2024,4,Malibu,Oq,LT,4
+127,1/13/2024,5,Damas,Ko‘k,Standard,5
+128,1/13/2024,6,Labo,Oq,Standard,7
+129,1/13/2024,7,Tracker,Qora,Premier,7
+130,1/13/2024,8,Equinox,Kumushrang,Premier,4
+131,1/13/2024,9,Onix,Qizil,LS,7
+132,1/13/2024,10,Gentra,Oq,Elegant,10
+133,1/13/2024,11,Spark,Ko‘k,LT,4
+134,1/14/2024,1,Cobalt,Oq,LS,8
+135,1/14/2024,2,Nexia 3,Qora,DOHC,5
+136,1/14/2024,3,Malibu 2,Qora,LTZ,10
+137,1/14/2024,5,Damas,Oq,Standard,2
+138,1/14/2024,6,Labo,Oq,Standard,10
+139,1/14/2024,7,Tracker,Kulrang,Premier,8
+140,1/14/2024,8,Equinox,Kumushrang,RS,10
+141,1/14/2024,9,Onix,Qizil,LT,6
+142,1/14/2024,10,Gentra,Kulrang,Comfort,10
+143,1/14/2024,11,Spark,Oq,LUX,9
+144,1/15/2024,1,Cobalt,Qora,LUX,5
+145,1/15/2024,2,Nexia 3,Ko‘k,SOHC,3
+146,1/15/2024,3,Malibu 2,Kumushrang,LTZ,6
+147,1/15/2024,4,Malibu,Oq,LS,3
+148,1/15/2024,5,Damas,Oq,Deluxe,3
+149,1/15/2024,6,Labo,Oq,Standard,4
+150,1/15/2024,8,Equinox,Kumushrang,RS,4
+151,1/15/2024,9,Onix,Qora,LS,4
+152,1/15/2024,10,Gentra,Qora,Comfort,4
+153,1/15/2024,11,Spark,Ko‘k,LUX,8
+154,1/16/2024,1,Cobalt,Oq,LUX,6
+155,1/16/2024,2,Nexia 3,Qora,SOHC,6
+156,1/16/2024,3,Malibu 2,Kumushrang,LTZ,3
+157,1/16/2024,4,Malibu,Oq,LT,1
+158,1/16/2024,5,Damas,Oq,Deluxe,3
+159,1/16/2024,6,Labo,Oq,Standard,10
+160,1/16/2024,7,Tracker,Kulrang,LT,7
+161,1/16/2024,8,Equinox,Qora,RS,9
+162,1/16/2024,9,Onix,Qizil,LT,6
+163,1/16/2024,10,Gentra,Oq,Comfort,8
+164,1/16/2024,11,Spark,Ko‘k,LT,3
+165,1/17/2024,1,Cobalt,Oq,LS,2
+166,1/17/2024,2,Nexia 3,Qora,SOHC,3
+167,1/17/2024,4,Malibu,Oq,LT,3
+168,1/17/2024,5,Damas,Oq,Deluxe,9
+169,1/17/2024,7,Tracker,Kulrang,LT,6
+170,1/17/2024,8,Equinox,Qora,RS,10
+171,1/17/2024,9,Onix,Qizil,LS,1
+172,1/17/2024,10,Gentra,Kulrang,Elegant,9
+173,1/17/2024,11,Spark,Oq,LUX,6
+174,1/18/2024,2,Nexia 3,Oq,DOHC,8
+175,1/18/2024,3,Malibu 2,Kumushrang,Premier,8
+176,1/18/2024,4,Malibu,Kulrang,LS,2
+177,1/18/2024,6,Labo,Oq,Standard,10
+178,1/18/2024,7,Tracker,Qora,LT,6
+179,1/18/2024,8,Equinox,Kumushrang,Premier,6
+180,1/18/2024,9,Onix,Qizil,LS,9
+181,1/19/2024,1,Cobalt,Oq,LUX,10
+182,1/19/2024,2,Nexia 3,Oq,SOHC,3
+183,1/19/2024,3,Malibu 2,Qora,Premier,4
+184,1/19/2024,4,Malibu,Oq,LS,10
+185,1/19/2024,5,Damas,Ko‘k,Deluxe,7
+186,1/19/2024,6,Labo,Oq,Standard,5
+187,1/19/2024,7,Tracker,Kulrang,LT,5
+188,1/19/2024,8,Equinox,Qora,RS,4
+189,1/19/2024,9,Onix,Qizil,LT,2
+190,1/19/2024,10,Gentra,Kulrang,Comfort,9
+191,1/19/2024,11,Spark,Ko‘k,LUX,2
+192,1/20/2024,1,Cobalt,Qora,LUX,7
+193,1/20/2024,3,Malibu 2,Kumushrang,Premier,5
+194,1/20/2024,4,Malibu,Kulrang,LS,4
+195,1/20/2024,5,Damas,Oq,Standard,9
+196,1/20/2024,6,Labo,Oq,Standard,5
+197,1/20/2024,7,Tracker,Kulrang,Premier,1
+198,1/20/2024,8,Equinox,Qora,RS,5
+199,1/20/2024,9,Onix,Qizil,LS,4
+200,1/20/2024,10,Gentra,Qora,Elegant,9
+201,1/20/2024,11,Spark,Oq,LT,2
+202,1/21/2024,1,Cobalt,Qora,LUX,1
+203,1/21/2024,3,Malibu 2,Kumushrang,LTZ,3
+204,1/21/2024,4,Malibu,Kulrang,LT,9
+205,1/21/2024,5,Damas,Oq,Standard,9
+206,1/21/2024,6,Labo,Oq,Standard,6
+207,1/21/2024,7,Tracker,Qora,LT,5
+208,1/21/2024,8,Equinox,Qora,RS,1
+209,1/21/2024,9,Onix,Qora,LS,6
+210,1/21/2024,10,Gentra,Kulrang,Elegant,1
+211,1/22/2024,1,Cobalt,Oq,LS,2
+212,1/22/2024,2,Nexia 3,Qora,DOHC,9
+213,1/22/2024,3,Malibu 2,Qora,Premier,3
+214,1/22/2024,4,Malibu,Oq,LS,6
+215,1/22/2024,5,Damas,Ko‘k,Standard,4
+216,1/22/2024,7,Tracker,Kulrang,LT,10
+217,1/22/2024,8,Equinox,Qora,Premier,6
+218,1/22/2024,9,Onix,Qizil,LT,2
+219,1/22/2024,10,Gentra,Oq,Comfort,2
+220,1/23/2024,1,Cobalt,Kulrang,LS,6
+221,1/23/2024,2,Nexia 3,Oq,DOHC,10
+222,1/23/2024,3,Malibu 2,Qora,LTZ,7
+223,1/23/2024,4,Malibu,Kulrang,LT,7
+224,1/23/2024,5,Damas,Ko‘k,Standard,9
+225,1/23/2024,6,Labo,Oq,Standard,7
+226,1/23/2024,7,Tracker,Kulrang,Premier,10
+227,1/23/2024,9,Onix,Qora,LS,8
+228,1/23/2024,10,Gentra,Oq,Elegant,8
+229,1/23/2024,11,Spark,Oq,LUX,6
+230,1/24/2024,1,Cobalt,Kulrang,LT,5
+231,1/24/2024,2,Nexia 3,Oq,SOHC,7
+232,1/24/2024,3,Malibu 2,Kumushrang,LTZ,9
+233,1/24/2024,4,Malibu,Oq,LT,5
+234,1/24/2024,5,Damas,Ko‘k,Standard,2
+235,1/24/2024,6,Labo,Oq,Standard,6
+236,1/24/2024,7,Tracker,Kulrang,Premier,9
+237,1/24/2024,8,Equinox,Qora,Premier,1
+238,1/24/2024,9,Onix,Qora,LT,5
+239,1/24/2024,10,Gentra,Oq,Elegant,2
+240,1/24/2024,11,Spark,Qora,LUX,9
+241,1/25/2024,1,Cobalt,Kulrang,LUX,6
+242,1/25/2024,2,Nexia 3,Qora,DOHC,4
+243,1/25/2024,3,Malibu 2,Qora,LTZ,6
+244,1/25/2024,4,Malibu,Kulrang,LS,1
+245,1/25/2024,5,Damas,Ko‘k,Deluxe,8
+246,1/25/2024,6,Labo,Oq,Standard,3
+247,1/25/2024,7,Tracker,Qora,Premier,7
+248,1/25/2024,8,Equinox,Kumushrang,RS,6
+249,1/25/2024,9,Onix,Qora,LT,9
+250,1/25/2024,10,Gentra,Kulrang,Elegant,6
+251,1/25/2024,11,Spark,Oq,LT,1
+252,1/26/2024,1,Cobalt,Kulrang,LS,5
+253,1/26/2024,2,Nexia 3,Ko‘k,DOHC,1
+254,1/26/2024,3,Malibu 2,Kumushrang,Premier,3
+255,1/26/2024,4,Malibu,Kulrang,LS,2
+256,1/26/2024,5,Damas,Oq,Deluxe,10
+257,1/26/2024,6,Labo,Oq,Standard,5
+258,1/26/2024,7,Tracker,Qora,Premier,4
+259,1/26/2024,8,Equinox,Qora,Premier,7
+260,1/26/2024,9,Onix,Qora,LT,6
+261,1/26/2024,10,Gentra,Qora,Elegant,5
+262,1/27/2024,2,Nexia 3,Qora,SOHC,8
+263,1/27/2024,3,Malibu 2,Qora,Premier,9
+264,1/27/2024,4,Malibu,Oq,LT,10
+265,1/27/2024,5,Damas,Ko‘k,Deluxe,1
+266,1/27/2024,6,Labo,Oq,Standard,9
+267,1/27/2024,7,Tracker,Kulrang,Premier,5
+268,1/27/2024,8,Equinox,Kumushrang,RS,5
+269,1/27/2024,9,Onix,Qora,LT,1
+270,1/27/2024,10,Gentra,Oq,Comfort,2
+271,1/27/2024,11,Spark,Oq,LUX,10
+272,1/28/2024,1,Cobalt,Oq,LUX,3
+273,1/28/2024,2,Nexia 3,Qora,SOHC,7
+274,1/28/2024,3,Malibu 2,Kumushrang,LTZ,10
+275,1/28/2024,4,Malibu,Oq,LS,6
+276,1/28/2024,5,Damas,Oq,Deluxe,7
+277,1/28/2024,6,Labo,Oq,Standard,6
+278,1/28/2024,7,Tracker,Kulrang,Premier,9
+279,1/28/2024,8,Equinox,Qora,Premier,5
+280,1/28/2024,9,Onix,Qizil,LT,1
+281,1/28/2024,10,Gentra,Kulrang,Comfort,1
+282,1/28/2024,11,Spark,Ko‘k,LUX,5
+283,1/29/2024,1,Cobalt,Kulrang,LT,9
+284,1/29/2024,3,Malibu 2,Kumushrang,Premier,8
+285,1/29/2024,4,Malibu,Oq,LT,10
+286,1/29/2024,5,Damas,Oq,Standard,2
+287,1/29/2024,7,Tracker,Qora,LT,2
+288,1/29/2024,8,Equinox,Qora,RS,10
+289,1/29/2024,9,Onix,Oq,Premier,4
+290,1/29/2024,10,Gentra,Kulrang,Elegant,6
+291,1/29/2024,11,Spark,Qora,LUX,8
+292,1/30/2024,1,Cobalt,Oq,LS,3
+293,1/30/2024,2,Nexia 3,Qora,SOHC,7
+294,1/30/2024,3,Malibu 2,Kumushrang,Premier,4
+295,1/30/2024,4,Malibu,Kulrang,LS,4
+296,1/30/2024,5,Damas,Oq,Deluxe,9
+297,1/30/2024,6,Labo,Oq,Standard,3
+298,1/30/2024,7,Tracker,Kulrang,LT,7
+299,1/30/2024,8,Equinox,Qora,Premier,6
+300,1/30/2024,9,Onix,Qizil,LT,7
+301,1/30/2024,10,Gentra,Oq,Comfort,4
+302,1/30/2024,11,Spark,Ko‘k,LUX,2
+303,1/31/2024,1,Cobalt,Kulrang,LS,7
+304,1/31/2024,2,Nexia 3,Qora,DOHC,5
+305,1/31/2024,3,Malibu 2,Kumushrang,LTZ,9
+306,1/31/2024,4,Malibu,Oq,LS,9
+307,1/31/2024,5,Damas,Oq,Deluxe,2
+308,1/31/2024,6,Labo,Oq,Standard,7
+309,1/31/2024,7,Tracker,Qora,LT,9
+310,1/31/2024,8,Equinox,Qora,Premier,4
+311,1/31/2024,9,Onix,Oq,LT,4
+312,1/31/2024,10,Gentra,Qora,Elegant,4
+313,1/31/2024,11,Spark,Qora,LUX,9
+314,2/1/2024,1,Cobalt,Oq,LT,1
+315,2/1/2024,2,Nexia 3,Ko‘k,SOHC,5
+316,2/1/2024,3,Malibu 2,Kumushrang,Premier,3
+317,2/1/2024,4,Malibu,Oq,LT,2
+318,2/1/2024,5,Damas,Oq,Deluxe,8
+319,2/1/2024,6,Labo,Oq,Standard,10
+320,2/1/2024,7,Tracker,Kulrang,Premier,4
+321,2/1/2024,8,Equinox,Qora,RS,7
+322,2/1/2024,9,Onix,Qizil,Premier,9
+323,2/1/2024,10,Gentra,Oq,Comfort,1
+324,2/1/2024,11,Spark,Oq,LT,8
+325,2/2/2024,1,Cobalt,Qora,LT,10
+326,2/2/2024,2,Nexia 3,Oq,SOHC,3
+327,2/2/2024,3,Malibu 2,Qora,Premier,10
+328,2/2/2024,4,Malibu,Oq,LS,10
+329,2/2/2024,5,Damas,Ko‘k,Standard,5
+330,2/2/2024,7,Tracker,Qora,Premier,7
+331,2/2/2024,8,Equinox,Qora,Premier,10
+332,2/2/2024,9,Onix,Qora,LT,1
+333,2/2/2024,10,Gentra,Qora,Elegant,3
+334,2/2/2024,11,Spark,Qora,LT,5
+335,2/3/2024,1,Cobalt,Qora,LT,9
+336,2/3/2024,2,Nexia 3,Oq,SOHC,4
+337,2/3/2024,3,Malibu 2,Kumushrang,LTZ,6
+338,2/3/2024,4,Malibu,Kulrang,LS,6
+339,2/3/2024,5,Damas,Oq,Standard,4
+340,2/3/2024,6,Labo,Oq,Standard,3
+341,2/3/2024,7,Tracker,Qora,LT,7
+342,2/3/2024,8,Equinox,Kumushrang,RS,2
+343,2/3/2024,9,Onix,Oq,LS,9
+344,2/3/2024,10,Gentra,Oq,Elegant,6
+345,2/3/2024,11,Spark,Ko‘k,LT,10
+346,2/4/2024,1,Cobalt,Kulrang,LUX,2
+347,2/4/2024,2,Nexia 3,Oq,SOHC,10
+348,2/4/2024,4,Malibu,Kulrang,LS,5
+349,2/4/2024,5,Damas,Oq,Deluxe,1
+350,2/4/2024,6,Labo,Oq,Standard,6
+351,2/4/2024,7,Tracker,Kulrang,LT,9
+352,2/4/2024,8,Equinox,Qora,RS,2
+353,2/4/2024,9,Onix,Oq,Premier,9
+354,2/4/2024,10,Gentra,Qora,Comfort,6
+355,2/4/2024,11,Spark,Oq,LUX,1
+356,2/5/2024,1,Cobalt,Qora,LT,6
+357,2/5/2024,2,Nexia 3,Ko‘k,SOHC,3
+358,2/5/2024,3,Malibu 2,Qora,LTZ,3
+359,2/5/2024,4,Malibu,Kulrang,LT,5
+360,2/5/2024,5,Damas,Oq,Deluxe,8
+361,2/5/2024,6,Labo,Oq,Standard,9
+362,2/5/2024,7,Tracker,Kulrang,Premier,7
+363,2/5/2024,8,Equinox,Kumushrang,RS,10
+364,2/5/2024,10,Gentra,Oq,Comfort,6
+365,2/5/2024,11,Spark,Oq,LUX,8
+366,2/6/2024,1,Cobalt,Qora,LS,5
+367,2/6/2024,2,Nexia 3,Qora,DOHC,3
+368,2/6/2024,3,Malibu 2,Kumushrang,Premier,1
+369,2/6/2024,4,Malibu,Oq,LS,2
+370,2/6/2024,5,Damas,Ko‘k,Deluxe,2
+371,2/6/2024,6,Labo,Oq,Standard,5
+372,2/6/2024,7,Tracker,Qora,LT,1
+373,2/6/2024,8,Equinox,Qora,RS,8
+374,2/6/2024,9,Onix,Qizil,Premier,2
+375,2/6/2024,10,Gentra,Oq,Elegant,6
+376,2/6/2024,11,Spark,Qora,LUX,4
+377,2/7/2024,1,Cobalt,Qora,LT,1
+378,2/7/2024,2,Nexia 3,Qora,SOHC,3
+379,2/7/2024,3,Malibu 2,Qora,LTZ,1
+380,2/7/2024,4,Malibu,Kulrang,LS,3
+381,2/7/2024,5,Damas,Ko‘k,Deluxe,1
+382,2/7/2024,6,Labo,Oq,Standard,6
+383,2/7/2024,7,Tracker,Qora,Premier,10
+384,2/7/2024,8,Equinox,Qora,RS,10
+385,2/7/2024,9,Onix,Qora,LS,6
+386,2/7/2024,11,Spark,Qora,LT,1
+387,2/8/2024,2,Nexia 3,Oq,DOHC,5
+388,2/8/2024,3,Malibu 2,Kumushrang,Premier,1
+389,2/8/2024,4,Malibu,Kulrang,LS,5
+390,2/8/2024,5,Damas,Ko‘k,Standard,1
+391,2/8/2024,6,Labo,Oq,Standard,9
+392,2/8/2024,7,Tracker,Qora,LT,4
+393,2/8/2024,8,Equinox,Qora,RS,8
+394,2/8/2024,9,Onix,Qizil,Premier,2
+395,2/8/2024,10,Gentra,Qora,Elegant,4
+396,2/8/2024,11,Spark,Qora,LUX,4
+397,2/9/2024,1,Cobalt,Qora,LS,7
+398,2/9/2024,2,Nexia 3,Ko‘k,DOHC,10
+399,2/9/2024,3,Malibu 2,Kumushrang,Premier,9
+400,2/9/2024,4,Malibu,Kulrang,LS,9
+401,2/9/2024,5,Damas,Ko‘k,Standard,2
+402,2/9/2024,7,Tracker,Qora,Premier,7
+403,2/9/2024,8,Equinox,Qora,Premier,3
+404,2/9/2024,9,Onix,Oq,LS,3
+405,2/9/2024,10,Gentra,Kulrang,Elegant,4
+406,2/9/2024,11,Spark,Ko‘k,LT,5
+407,2/10/2024,2,Nexia 3,Oq,SOHC,8
+408,2/10/2024,3,Malibu 2,Qora,LTZ,10
+409,2/10/2024,4,Malibu,Oq,LS,8
+410,2/10/2024,5,Damas,Ko‘k,Deluxe,10
+411,2/10/2024,6,Labo,Oq,Standard,1
+412,2/10/2024,7,Tracker,Qora,LT,9
+413,2/10/2024,8,Equinox,Kumushrang,RS,7
+414,2/10/2024,9,Onix,Qora,LT,6
+415,2/10/2024,10,Gentra,Kulrang,Comfort,7
+416,2/10/2024,11,Spark,Oq,LT,7
+417,2/11/2024,1,Cobalt,Qora,LT,5
+418,2/11/2024,2,Nexia 3,Qora,DOHC,5
+419,2/11/2024,3,Malibu 2,Kumushrang,Premier,8
+420,2/11/2024,4,Malibu,Oq,LT,9
+421,2/11/2024,6,Labo,Oq,Standard,1
+422,2/11/2024,7,Tracker,Qora,LT,5
+423,2/11/2024,8,Equinox,Kumushrang,Premier,4
+424,2/11/2024,9,Onix,Qora,LT,6
+425,2/11/2024,10,Gentra,Oq,Comfort,8
+426,2/11/2024,11,Spark,Qora,LT,8
+427,2/12/2024,1,Cobalt,Kulrang,LS,5
+428,2/12/2024,3,Malibu 2,Qora,LTZ,1
+429,2/12/2024,4,Malibu,Kulrang,LS,3
+430,2/12/2024,5,Damas,Ko‘k,Standard,8
+431,2/12/2024,6,Labo,Oq,Standard,9
+432,2/12/2024,7,Tracker,Kulrang,LT,2
+433,2/12/2024,8,Equinox,Qora,Premier,10
+434,2/12/2024,9,Onix,Oq,LT,5
+435,2/12/2024,10,Gentra,Qora,Elegant,5
+436,2/12/2024,11,Spark,Ko‘k,LUX,10
+437,2/13/2024,1,Cobalt,Qora,LUX,7
+438,2/13/2024,2,Nexia 3,Qora,SOHC,7
+439,2/13/2024,3,Malibu 2,Kumushrang,LTZ,5
+440,2/13/2024,5,Damas,Ko‘k,Standard,8
+441,2/13/2024,6,Labo,Oq,Standard,10
+442,2/13/2024,7,Tracker,Qora,Premier,4
+443,2/13/2024,8,Equinox,Qora,RS,7
+444,2/13/2024,9,Onix,Qizil,Premier,4
+445,2/13/2024,10,Gentra,Oq,Elegant,7
+446,2/13/2024,11,Spark,Qora,LUX,10
+447,2/14/2024,1,Cobalt,Qora,LT,8
+448,2/14/2024,3,Malibu 2,Qora,LTZ,7
+449,2/14/2024,4,Malibu,Oq,LT,9
+450,2/14/2024,5,Damas,Ko‘k,Standard,4
+451,2/14/2024,6,Labo,Oq,Standard,1
+452,2/14/2024,7,Tracker,Kulrang,Premier,6
+453,2/14/2024,8,Equinox,Qora,RS,3
+454,2/14/2024,9,Onix,Qora,LT,3
+455,2/14/2024,10,Gentra,Qora,Comfort,9
+456,2/14/2024,11,Spark,Ko‘k,LT,5
+457,2/15/2024,1,Cobalt,Qora,LS,6
+458,2/15/2024,2,Nexia 3,Ko‘k,SOHC,3
+459,2/15/2024,3,Malibu 2,Qora,Premier,1
+460,2/15/2024,4,Malibu,Oq,LS,1
+461,2/15/2024,5,Damas,Oq,Standard,2
+462,2/15/2024,6,Labo,Oq,Standard,8
+463,2/15/2024,7,Tracker,Qora,Premier,1
+464,2/15/2024,8,Equinox,Qora,RS,9
+465,2/15/2024,9,Onix,Oq,LT,8
+466,2/15/2024,10,Gentra,Qora,Elegant,5
+467,2/15/2024,11,Spark,Qora,LT,7
+468,2/16/2024,1,Cobalt,Oq,LUX,7
+469,2/16/2024,2,Nexia 3,Ko‘k,DOHC,1
+470,2/16/2024,3,Malibu 2,Kumushrang,Premier,1
+471,2/16/2024,4,Malibu,Oq,LS,2
+472,2/16/2024,6,Labo,Oq,Standard,10
+473,2/16/2024,7,Tracker,Qora,Premier,7
+474,2/16/2024,8,Equinox,Kumushrang,RS,5
+475,2/16/2024,9,Onix,Oq,LS,6
+476,2/16/2024,11,Spark,Qora,LT,1
+477,2/17/2024,1,Cobalt,Kulrang,LS,1
+478,2/17/2024,2,Nexia 3,Qora,DOHC,2
+479,2/17/2024,3,Malibu 2,Qora,Premier,5
+480,2/17/2024,4,Malibu,Kulrang,LS,6
+481,2/17/2024,6,Labo,Oq,Standard,7
+482,2/17/2024,7,Tracker,Qora,Premier,4
+483,2/17/2024,8,Equinox,Qora,Premier,5
+484,2/17/2024,9,Onix,Qizil,LT,3
+485,2/17/2024,10,Gentra,Qora,Comfort,6
+486,2/17/2024,11,Spark,Ko‘k,LT,7
+487,2/18/2024,1,Cobalt,Oq,LUX,7
+488,2/18/2024,3,Malibu 2,Qora,LTZ,4
+489,2/18/2024,4,Malibu,Oq,LT,10
+490,2/18/2024,5,Damas,Ko‘k,Standard,7
+491,2/18/2024,6,Labo,Oq,Standard,6
+492,2/18/2024,7,Tracker,Qora,Premier,1
+493,2/18/2024,8,Equinox,Kumushrang,Premier,4
+494,2/18/2024,11,Spark,Qora,LT,7
+495,2/19/2024,2,Nexia 3,Ko‘k,DOHC,5
+496,2/19/2024,3,Malibu 2,Qora,LTZ,7
+497,2/19/2024,4,Malibu,Kulrang,LS,9
+498,2/19/2024,5,Damas,Ko‘k,Standard,3
+499,2/19/2024,6,Labo,Oq,Standard,6
+500,2/19/2024,7,Tracker,Kulrang,LT,2
+501,2/19/2024,8,Equinox,Kumushrang,Premier,5
+502,2/19/2024,10,Gentra,Kulrang,Elegant,2
+503,2/19/2024,11,Spark,Oq,LUX,8
+504,2/20/2024,1,Cobalt,Oq,LT,9
+505,2/20/2024,2,Nexia 3,Qora,SOHC,10
+506,2/20/2024,3,Malibu 2,Kumushrang,Premier,10
+507,2/20/2024,4,Malibu,Kulrang,LT,8
+508,2/20/2024,5,Damas,Oq,Deluxe,8
+509,2/20/2024,7,Tracker,Kulrang,LT,4
+510,2/20/2024,8,Equinox,Kumushrang,RS,10
+511,2/20/2024,9,Onix,Qizil,LT,7
+512,2/20/2024,10,Gentra,Qora,Comfort,2
+513,2/20/2024,11,Spark,Oq,LT,1
+514,2/21/2024,1,Cobalt,Oq,LS,10
+515,2/21/2024,2,Nexia 3,Qora,DOHC,5
+516,2/21/2024,4,Malibu,Oq,LT,5
+517,2/21/2024,5,Damas,Ko‘k,Standard,8
+518,2/21/2024,7,Tracker,Kulrang,LT,6
+519,2/21/2024,9,Onix,Qora,Premier,7
+520,2/21/2024,10,Gentra,Kulrang,Comfort,9
+521,2/21/2024,11,Spark,Ko‘k,LT,5
+522,2/22/2024,2,Nexia 3,Qora,DOHC,1
+523,2/22/2024,3,Malibu 2,Kumushrang,Premier,9
+524,2/22/2024,4,Malibu,Kulrang,LS,5
+525,2/22/2024,5,Damas,Oq,Standard,8
+526,2/22/2024,6,Labo,Oq,Standard,8
+527,2/22/2024,7,Tracker,Qora,LT,6
+528,2/22/2024,8,Equinox,Kumushrang,Premier,9
+529,2/22/2024,9,Onix,Oq,LT,5
+530,2/22/2024,10,Gentra,Kulrang,Elegant,1
+531,2/22/2024,11,Spark,Ko‘k,LUX,7
+532,2/23/2024,1,Cobalt,Kulrang,LUX,2
+533,2/23/2024,2,Nexia 3,Ko‘k,SOHC,3
+534,2/23/2024,3,Malibu 2,Qora,Premier,5
+535,2/23/2024,4,Malibu,Oq,LS,5
+536,2/23/2024,5,Damas,Ko‘k,Deluxe,4
+537,2/23/2024,6,Labo,Oq,Standard,2
+538,2/23/2024,7,Tracker,Kulrang,Premier,8
+539,2/23/2024,8,Equinox,Kumushrang,RS,6
+540,2/23/2024,9,Onix,Qizil,LT,2
+541,2/23/2024,10,Gentra,Qora,Comfort,3
+542,2/23/2024,11,Spark,Qora,LUX,6
+543,2/24/2024,1,Cobalt,Kulrang,LUX,8
+544,2/24/2024,3,Malibu 2,Qora,LTZ,1
+545,2/24/2024,4,Malibu,Kulrang,LT,3
+546,2/24/2024,5,Damas,Ko‘k,Standard,4
+547,2/24/2024,6,Labo,Oq,Standard,1
+548,2/24/2024,7,Tracker,Qora,Premier,6
+549,2/24/2024,8,Equinox,Qora,Premier,1
+550,2/24/2024,9,Onix,Qizil,LT,7
+551,2/24/2024,10,Gentra,Oq,Comfort,1
+552,2/24/2024,11,Spark,Oq,LT,4
+553,2/25/2024,1,Cobalt,Kulrang,LT,3
+554,2/25/2024,2,Nexia 3,Oq,DOHC,1
+555,2/25/2024,3,Malibu 2,Kumushrang,Premier,3
+556,2/25/2024,4,Malibu,Oq,LS,2
+557,2/25/2024,5,Damas,Ko‘k,Standard,4
+558,2/25/2024,6,Labo,Oq,Standard,3
+559,2/25/2024,7,Tracker,Qora,LT,5
+560,2/25/2024,8,Equinox,Qora,RS,9
+561,2/25/2024,10,Gentra,Kulrang,Comfort,2
+562,2/25/2024,11,Spark,Oq,LUX,10
+563,2/26/2024,1,Cobalt,Kulrang,LS,3
+564,2/26/2024,2,Nexia 3,Ko‘k,SOHC,2
+565,2/26/2024,3,Malibu 2,Qora,Premier,4
+566,2/26/2024,4,Malibu,Oq,LS,7
+567,2/26/2024,5,Damas,Ko‘k,Deluxe,2
+568,2/26/2024,6,Labo,Oq,Standard,6
+569,2/26/2024,7,Tracker,Kulrang,Premier,3
+570,2/26/2024,8,Equinox,Kumushrang,Premier,1
+571,2/26/2024,9,Onix,Qora,Premier,9
+572,2/26/2024,10,Gentra,Kulrang,Comfort,5
+573,2/26/2024,11,Spark,Ko‘k,LUX,4
+574,2/27/2024,1,Cobalt,Qora,LS,9
+575,2/27/2024,2,Nexia 3,Qora,DOHC,6
+576,2/27/2024,3,Malibu 2,Kumushrang,Premier,3
+577,2/27/2024,4,Malibu,Kulrang,LT,7
+578,2/27/2024,5,Damas,Ko‘k,Deluxe,8
+579,2/27/2024,6,Labo,Oq,Standard,5
+580,2/27/2024,7,Tracker,Kulrang,LT,8
+581,2/27/2024,8,Equinox,Qora,Premier,9
+582,2/27/2024,9,Onix,Oq,Premier,10
+583,2/27/2024,11,Spark,Qora,LT,7
+584,2/28/2024,1,Cobalt,Qora,LS,10
+585,2/28/2024,2,Nexia 3,Oq,DOHC,8
+586,2/28/2024,4,Malibu,Kulrang,LS,4
+587,2/28/2024,5,Damas,Oq,Standard,7
+588,2/28/2024,6,Labo,Oq,Standard,9
+589,2/28/2024,7,Tracker,Kulrang,LT,2
+590,2/28/2024,8,Equinox,Qora,RS,9
+591,2/28/2024,9,Onix,Oq,LT,5
+592,2/28/2024,10,Gentra,Kulrang,Comfort,3
+593,2/28/2024,11,Spark,Ko‘k,LUX,5
+594,2/29/2024,1,Cobalt,Qora,LUX,10
+595,2/29/2024,2,Nexia 3,Ko‘k,SOHC,7
+596,2/29/2024,3,Malibu 2,Qora,LTZ,6
+597,2/29/2024,4,Malibu,Oq,LT,10
+598,2/29/2024,5,Damas,Ko‘k,Standard,4
+599,2/29/2024,6,Labo,Oq,Standard,1
+600,2/29/2024,7,Tracker,Kulrang,Premier,2
+601,2/29/2024,8,Equinox,Kumushrang,RS,2
+602,2/29/2024,10,Gentra,Qora,Comfort,9
+603,2/29/2024,11,Spark,Oq,LT,5
+604,3/1/2024,1,Cobalt,Kulrang,LUX,1
+605,3/1/2024,2,Nexia 3,Ko‘k,SOHC,6
+606,3/1/2024,3,Malibu 2,Kumushrang,LTZ,9
+607,3/1/2024,4,Malibu,Oq,LS,10
+608,3/1/2024,5,Damas,Ko‘k,Deluxe,3
+609,3/1/2024,7,Tracker,Qora,Premier,7
+610,3/1/2024,9,Onix,Qizil,Premier,5
+611,3/1/2024,10,Gentra,Kulrang,Comfort,1
+612,3/1/2024,11,Spark,Ko‘k,LUX,5
+613,3/2/2024,1,Cobalt,Qora,LS,10
+614,3/2/2024,2,Nexia 3,Oq,SOHC,2
+615,3/2/2024,3,Malibu 2,Kumushrang,Premier,1
+616,3/2/2024,4,Malibu,Oq,LS,5
+617,3/2/2024,5,Damas,Oq,Standard,8
+618,3/2/2024,7,Tracker,Qora,LT,4
+619,3/2/2024,8,Equinox,Qora,RS,6
+620,3/2/2024,9,Onix,Oq,LS,5
+621,3/2/2024,10,Gentra,Qora,Elegant,1
+622,3/2/2024,11,Spark,Ko‘k,LUX,10
+623,3/3/2024,2,Nexia 3,Ko‘k,SOHC,3
+624,3/3/2024,3,Malibu 2,Kumushrang,LTZ,1
+625,3/3/2024,4,Malibu,Kulrang,LT,10
+626,3/3/2024,6,Labo,Oq,Standard,5
+627,3/3/2024,7,Tracker,Qora,Premier,3
+628,3/3/2024,8,Equinox,Qora,Premier,9
+629,3/3/2024,9,Onix,Oq,LS,9
+630,3/3/2024,10,Gentra,Qora,Comfort,1
+631,3/4/2024,1,Cobalt,Oq,LUX,2
+632,3/4/2024,2,Nexia 3,Oq,DOHC,10
+633,3/4/2024,3,Malibu 2,Kumushrang,LTZ,1
+634,3/4/2024,4,Malibu,Kulrang,LS,8
+635,3/4/2024,5,Damas,Ko‘k,Deluxe,8
+636,3/4/2024,6,Labo,Oq,Standard,8
+637,3/4/2024,7,Tracker,Kulrang,LT,8
+638,3/4/2024,8,Equinox,Qora,RS,1
+639,3/4/2024,9,Onix,Qora,LS,9
+640,3/4/2024,10,Gentra,Qora,Comfort,8
+641,3/4/2024,11,Spark,Oq,LUX,5
+642,3/5/2024,1,Cobalt,Oq,LUX,3
+643,3/5/2024,2,Nexia 3,Ko‘k,SOHC,7
+644,3/5/2024,3,Malibu 2,Kumushrang,LTZ,7
+645,3/5/2024,4,Malibu,Oq,LS,1
+646,3/5/2024,5,Damas,Oq,Standard,10
+647,3/5/2024,6,Labo,Oq,Standard,6
+648,3/5/2024,7,Tracker,Kulrang,LT,7
+649,3/5/2024,8,Equinox,Qora,Premier,10
+650,3/5/2024,9,Onix,Qizil,LS,5
+651,3/5/2024,10,Gentra,Kulrang,Comfort,6
+652,3/5/2024,11,Spark,Ko‘k,LT,9
+653,3/6/2024,1,Cobalt,Oq,LUX,8
+654,3/6/2024,3,Malibu 2,Kumushrang,Premier,5
+655,3/6/2024,4,Malibu,Kulrang,LS,3
+656,3/6/2024,5,Damas,Oq,Deluxe,10
+657,3/6/2024,6,Labo,Oq,Standard,5
+658,3/6/2024,7,Tracker,Qora,Premier,10
+659,3/6/2024,8,Equinox,Kumushrang,RS,10
+660,3/6/2024,9,Onix,Qora,LT,8
+661,3/6/2024,10,Gentra,Kulrang,Elegant,2
+662,3/6/2024,11,Spark,Ko‘k,LT,4
+663,3/7/2024,1,Cobalt,Qora,LUX,7
+664,3/7/2024,2,Nexia 3,Ko‘k,SOHC,4
+665,3/7/2024,3,Malibu 2,Kumushrang,LTZ,3
+666,3/7/2024,4,Malibu,Kulrang,LT,1
+667,3/7/2024,5,Damas,Oq,Deluxe,2
+668,3/7/2024,6,Labo,Oq,Standard,4
+669,3/7/2024,8,Equinox,Qora,Premier,2
+670,3/7/2024,9,Onix,Qizil,LS,8
+671,3/7/2024,10,Gentra,Kulrang,Comfort,3
+672,3/7/2024,11,Spark,Ko‘k,LT,9
+673,3/8/2024,1,Cobalt,Oq,LT,9
+674,3/8/2024,2,Nexia 3,Oq,DOHC,5
+675,3/8/2024,3,Malibu 2,Qora,Premier,7
+676,3/8/2024,4,Malibu,Kulrang,LS,4
+677,3/8/2024,5,Damas,Ko‘k,Standard,3
+678,3/8/2024,6,Labo,Oq,Standard,1
+679,3/8/2024,7,Tracker,Kulrang,LT,1
+680,3/8/2024,8,Equinox,Kumushrang,RS,4
+681,3/8/2024,9,Onix,Qora,LT,1
+682,3/8/2024,10,Gentra,Kulrang,Comfort,7
+683,3/8/2024,11,Spark,Oq,LUX,9
+684,3/9/2024,1,Cobalt,Kulrang,LS,3
+685,3/9/2024,2,Nexia 3,Ko‘k,SOHC,10
+686,3/9/2024,3,Malibu 2,Kumushrang,Premier,10
+687,3/9/2024,4,Malibu,Oq,LS,7
+688,3/9/2024,5,Damas,Oq,Deluxe,1
+689,3/9/2024,6,Labo,Oq,Standard,9
+690,3/9/2024,7,Tracker,Qora,Premier,8
+691,3/9/2024,8,Equinox,Kumushrang,Premier,3
+692,3/9/2024,9,Onix,Qizil,Premier,5
+693,3/9/2024,10,Gentra,Oq,Elegant,8
+694,3/10/2024,2,Nexia 3,Oq,DOHC,1
+695,3/10/2024,3,Malibu 2,Qora,LTZ,5
+696,3/10/2024,4,Malibu,Oq,LT,6
+697,3/10/2024,5,Damas,Oq,Standard,7
+698,3/10/2024,6,Labo,Oq,Standard,7
+699,3/10/2024,7,Tracker,Qora,Premier,2
+700,3/10/2024,8,Equinox,Kumushrang,Premier,4
+701,3/10/2024,9,Onix,Qizil,LT,9
+702,3/10/2024,10,Gentra,Qora,Comfort,5
+703,3/10/2024,11,Spark,Oq,LT,3
+704,3/11/2024,1,Cobalt,Oq,LS,8
+705,3/11/2024,2,Nexia 3,Qora,DOHC,5
+706,3/11/2024,3,Malibu 2,Kumushrang,LTZ,9
+707,3/11/2024,4,Malibu,Oq,LS,10
+708,3/11/2024,5,Damas,Ko‘k,Deluxe,2
+709,3/11/2024,6,Labo,Oq,Standard,7
+710,3/11/2024,7,Tracker,Kulrang,Premier,4
+711,3/11/2024,8,Equinox,Kumushrang,RS,8
+712,3/11/2024,9,Onix,Oq,LS,3
+713,3/11/2024,10,Gentra,Qora,Elegant,2
+714,3/11/2024,11,Spark,Ko‘k,LT,2
+715,3/12/2024,1,Cobalt,Kulrang,LS,2
+716,3/12/2024,2,Nexia 3,Ko‘k,DOHC,5
+717,3/12/2024,3,Malibu 2,Qora,Premier,2
+718,3/12/2024,4,Malibu,Oq,LS,2
+719,3/12/2024,5,Damas,Ko‘k,Deluxe,10
+720,3/12/2024,6,Labo,Oq,Standard,4
+721,3/12/2024,9,Onix,Oq,LS,4
+722,3/12/2024,11,Spark,Qora,LT,2
+723,3/13/2024,1,Cobalt,Kulrang,LT,2
+724,3/13/2024,2,Nexia 3,Qora,SOHC,5
+725,3/13/2024,4,Malibu,Oq,LT,6
+726,3/13/2024,5,Damas,Oq,Standard,2
+727,3/13/2024,6,Labo,Oq,Standard,8
+728,3/13/2024,7,Tracker,Qora,LT,7
+729,3/13/2024,8,Equinox,Qora,RS,7
+730,3/13/2024,9,Onix,Qizil,Premier,2
+731,3/13/2024,10,Gentra,Oq,Elegant,6
+732,3/13/2024,11,Spark,Oq,LUX,4
+733,3/14/2024,1,Cobalt,Qora,LT,5
+734,3/14/2024,2,Nexia 3,Qora,SOHC,9
+735,3/14/2024,3,Malibu 2,Kumushrang,LTZ,3
+736,3/14/2024,4,Malibu,Kulrang,LT,7
+737,3/14/2024,5,Damas,Ko‘k,Standard,8
+738,3/14/2024,7,Tracker,Qora,Premier,3
+739,3/14/2024,8,Equinox,Kumushrang,Premier,4
+740,3/14/2024,9,Onix,Qizil,LT,2
+741,3/14/2024,11,Spark,Qora,LUX,6
+742,3/15/2024,1,Cobalt,Qora,LS,4
+743,3/15/2024,2,Nexia 3,Qora,DOHC,4
+744,3/15/2024,3,Malibu 2,Qora,Premier,9
+745,3/15/2024,4,Malibu,Oq,LT,7
+746,3/15/2024,5,Damas,Oq,Deluxe,1
+747,3/15/2024,6,Labo,Oq,Standard,5
+748,3/15/2024,7,Tracker,Qora,LT,1
+749,3/15/2024,8,Equinox,Qora,RS,7
+750,3/15/2024,9,Onix,Qizil,LT,8
+751,3/15/2024,10,Gentra,Qora,Elegant,10
+752,3/15/2024,11,Spark,Ko‘k,LT,7
+753,3/16/2024,1,Cobalt,Qora,LS,4
+754,3/16/2024,4,Malibu,Kulrang,LT,10
+755,3/16/2024,5,Damas,Ko‘k,Standard,1
+756,3/16/2024,6,Labo,Oq,Standard,10
+757,3/16/2024,7,Tracker,Kulrang,Premier,10
+758,3/16/2024,8,Equinox,Kumushrang,RS,10
+759,3/16/2024,9,Onix,Qizil,LT,3
+760,3/16/2024,10,Gentra,Kulrang,Elegant,5
+761,3/16/2024,11,Spark,Qora,LUX,4
+762,3/17/2024,1,Cobalt,Kulrang,LUX,9
+763,3/17/2024,2,Nexia 3,Ko‘k,SOHC,8
+764,3/17/2024,4,Malibu,Oq,LS,7
+765,3/17/2024,5,Damas,Oq,Deluxe,10
+766,3/17/2024,6,Labo,Oq,Standard,3
+767,3/17/2024,7,Tracker,Qora,Premier,8
+768,3/17/2024,8,Equinox,Qora,RS,8
+769,3/17/2024,9,Onix,Oq,LT,9
+770,3/17/2024,10,Gentra,Oq,Elegant,4
+771,3/17/2024,11,Spark,Ko‘k,LUX,4
+772,3/18/2024,1,Cobalt,Kulrang,LT,10
+773,3/18/2024,2,Nexia 3,Oq,SOHC,8
+774,3/18/2024,3,Malibu 2,Qora,Premier,2
+775,3/18/2024,4,Malibu,Oq,LT,10
+776,3/18/2024,5,Damas,Ko‘k,Deluxe,9
+777,3/18/2024,6,Labo,Oq,Standard,5
+778,3/18/2024,7,Tracker,Qora,LT,5
+779,3/18/2024,8,Equinox,Qora,RS,6
+780,3/18/2024,9,Onix,Qizil,Premier,5
+781,3/18/2024,10,Gentra,Qora,Comfort,7
+782,3/18/2024,11,Spark,Ko‘k,LUX,3
+783,3/19/2024,1,Cobalt,Oq,LS,9
+784,3/19/2024,2,Nexia 3,Oq,SOHC,9
+785,3/19/2024,3,Malibu 2,Kumushrang,LTZ,10
+786,3/19/2024,4,Malibu,Kulrang,LT,9
+787,3/19/2024,5,Damas,Oq,Standard,3
+788,3/19/2024,7,Tracker,Qora,LT,9
+789,3/19/2024,8,Equinox,Kumushrang,RS,10
+790,3/19/2024,9,Onix,Qizil,LS,3
+791,3/19/2024,10,Gentra,Oq,Comfort,1
+792,3/19/2024,11,Spark,Oq,LT,1
+793,3/20/2024,1,Cobalt,Qora,LUX,8
+794,3/20/2024,2,Nexia 3,Oq,DOHC,10
+795,3/20/2024,3,Malibu 2,Kumushrang,LTZ,8
+796,3/20/2024,4,Malibu,Oq,LS,4
+797,3/20/2024,6,Labo,Oq,Standard,8
+798,3/20/2024,7,Tracker,Kulrang,Premier,6
+799,3/20/2024,8,Equinox,Kumushrang,RS,9
+800,3/20/2024,9,Onix,Qizil,LS,4
+801,3/20/2024,10,Gentra,Kulrang,Elegant,5
+802,3/20/2024,11,Spark,Oq,LUX,6
+803,3/21/2024,1,Cobalt,Qora,LUX,5
+804,3/21/2024,2,Nexia 3,Ko‘k,SOHC,2
+805,3/21/2024,3,Malibu 2,Qora,Premier,6
+806,3/21/2024,4,Malibu,Kulrang,LT,9
+807,3/21/2024,5,Damas,Oq,Deluxe,1
+808,3/21/2024,6,Labo,Oq,Standard,9
+809,3/21/2024,7,Tracker,Kulrang,LT,9
+810,3/21/2024,8,Equinox,Kumushrang,RS,6
+811,3/21/2024,10,Gentra,Kulrang,Comfort,2
+812,3/21/2024,11,Spark,Ko‘k,LT,8
+813,3/22/2024,1,Cobalt,Oq,LUX,5
+814,3/22/2024,2,Nexia 3,Oq,DOHC,9
+815,3/22/2024,3,Malibu 2,Kumushrang,LTZ,6
+816,3/22/2024,4,Malibu,Oq,LT,1
+817,3/22/2024,5,Damas,Oq,Deluxe,10
+818,3/22/2024,6,Labo,Oq,Standard,5
+819,3/22/2024,7,Tracker,Qora,Premier,10
+820,3/22/2024,8,Equinox,Kumushrang,RS,1
+821,3/22/2024,10,Gentra,Oq,Comfort,8
+822,3/23/2024,1,Cobalt,Oq,LUX,8
+823,3/23/2024,2,Nexia 3,Oq,SOHC,5
+824,3/23/2024,4,Malibu,Oq,LT,7
+825,3/23/2024,6,Labo,Oq,Standard,7
+826,3/23/2024,7,Tracker,Kulrang,LT,4
+827,3/23/2024,8,Equinox,Kumushrang,Premier,5
+828,3/23/2024,9,Onix,Oq,Premier,8
+829,3/23/2024,10,Gentra,Qora,Comfort,7
+830,3/24/2024,1,Cobalt,Kulrang,LT,3
+831,3/24/2024,2,Nexia 3,Oq,SOHC,2
+832,3/24/2024,4,Malibu,Oq,LS,7
+833,3/24/2024,5,Damas,Oq,Deluxe,4
+834,3/24/2024,6,Labo,Oq,Standard,10
+835,3/24/2024,7,Tracker,Kulrang,Premier,2
+836,3/24/2024,8,Equinox,Kumushrang,RS,9
+837,3/24/2024,9,Onix,Qora,Premier,2
+838,3/24/2024,10,Gentra,Kulrang,Comfort,10
+839,3/24/2024,11,Spark,Oq,LUX,4
+840,3/25/2024,1,Cobalt,Oq,LUX,7
+841,3/25/2024,2,Nexia 3,Ko‘k,DOHC,4
+842,3/25/2024,3,Malibu 2,Kumushrang,Premier,7
+843,3/25/2024,4,Malibu,Kulrang,LT,8
+844,3/25/2024,5,Damas,Oq,Deluxe,4
+845,3/25/2024,6,Labo,Oq,Standard,8
+846,3/25/2024,7,Tracker,Kulrang,LT,3
+847,3/25/2024,8,Equinox,Kumushrang,Premier,9
+848,3/25/2024,9,Onix,Qora,LT,4
+849,3/25/2024,10,Gentra,Qora,Elegant,5
+850,3/25/2024,11,Spark,Ko‘k,LUX,5
+851,3/26/2024,1,Cobalt,Kulrang,LS,6
+852,3/26/2024,2,Nexia 3,Oq,DOHC,1
+853,3/26/2024,3,Malibu 2,Kumushrang,LTZ,4
+854,3/26/2024,4,Malibu,Kulrang,LT,4
+855,3/26/2024,5,Damas,Ko‘k,Deluxe,8
+856,3/26/2024,6,Labo,Oq,Standard,9
+857,3/26/2024,7,Tracker,Qora,Premier,7
+858,3/26/2024,8,Equinox,Qora,RS,10
+859,3/26/2024,9,Onix,Oq,LT,8
+860,3/26/2024,10,Gentra,Qora,Comfort,10
+861,3/27/2024,1,Cobalt,Qora,LS,1
+862,3/27/2024,2,Nexia 3,Qora,SOHC,6
+863,3/27/2024,3,Malibu 2,Kumushrang,LTZ,1
+864,3/27/2024,4,Malibu,Oq,LT,8
+865,3/27/2024,5,Damas,Ko‘k,Deluxe,4
+866,3/27/2024,7,Tracker,Qora,LT,9
+867,3/27/2024,8,Equinox,Kumushrang,RS,9
+868,3/27/2024,9,Onix,Oq,LS,9
+869,3/27/2024,10,Gentra,Kulrang,Elegant,10
+870,3/27/2024,11,Spark,Ko‘k,LUX,6
+871,3/28/2024,1,Cobalt,Kulrang,LT,5
+872,3/28/2024,2,Nexia 3,Ko‘k,DOHC,10
+873,3/28/2024,3,Malibu 2,Kumushrang,LTZ,3
+874,3/28/2024,4,Malibu,Kulrang,LT,2
+875,3/28/2024,5,Damas,Ko‘k,Deluxe,9
+876,3/28/2024,6,Labo,Oq,Standard,8
+877,3/28/2024,7,Tracker,Kulrang,Premier,5
+878,3/28/2024,8,Equinox,Kumushrang,RS,8
+879,3/28/2024,9,Onix,Qizil,LS,6
+880,3/28/2024,11,Spark,Qora,LUX,9
+881,3/29/2024,2,Nexia 3,Qora,SOHC,8
+882,3/29/2024,4,Malibu,Oq,LT,9
+883,3/29/2024,5,Damas,Ko‘k,Standard,7
+884,3/29/2024,6,Labo,Oq,Standard,9
+885,3/29/2024,8,Equinox,Kumushrang,Premier,7
+886,3/29/2024,9,Onix,Qizil,Premier,6
+887,3/29/2024,10,Gentra,Qora,Elegant,9
+888,3/29/2024,11,Spark,Oq,LUX,9
+889,3/30/2024,1,Cobalt,Qora,LS,4
+890,3/30/2024,2,Nexia 3,Qora,SOHC,8
+891,3/30/2024,3,Malibu 2,Qora,LTZ,7
+892,3/30/2024,5,Damas,Oq,Standard,6
+893,3/30/2024,6,Labo,Oq,Standard,1
+894,3/30/2024,7,Tracker,Qora,Premier,8
+895,3/30/2024,8,Equinox,Kumushrang,Premier,10
+896,3/30/2024,10,Gentra,Kulrang,Comfort,9
+897,3/30/2024,11,Spark,Oq,LUX,3

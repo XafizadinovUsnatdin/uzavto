@@ -1,0 +1,41 @@
+{
+    "2025-05": {
+        "Cobalt": 71,
+        "Nexia 3": 159,
+        "Malibu 2": 111,
+        "Malibu": 206,
+        "Damas": 312,
+        "Labo": 170,
+        "Tracker": 151,
+        "Equinox": 190,
+        "Onix": 135,
+        "Gentra": 196,
+        "Spark": 209
+    },
+    "2025-06": {
+        "Cobalt": 52,
+        "Nexia 3": 145,
+        "Malibu 2": 88,
+        "Malibu": 193,
+        "Damas": 292,
+        "Labo": 146,
+        "Tracker": 127,
+        "Equinox": 185,
+        "Onix": 110,
+        "Gentra": 201,
+        "Spark": 210
+    },
+    "2025-07": {
+        "Cobalt": 56,
+        "Nexia 3": 160,
+        "Malibu 2": 96,
+        "Malibu": 216,
+        "Damas": 323,
+        "Labo": 150,
+        "Tracker": 138,
+        "Equinox": 209,
+        "Onix": 119,
+        "Gentra": 230,
+        "Spark": 241
+    }
+}

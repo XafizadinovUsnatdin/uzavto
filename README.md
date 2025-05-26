@@ -1,27 +1,38 @@
-## Turin x IT Park: AI Hackathon 2025 
-# Maqsad:
-Avtosalonga tashrif buyurgan mijozlarning yoshi, jinsi va salonda qancha vaqt bo‘lganligi asosida statistik tahlil qilish, ularni tahlil qiluvchi va vizual tarzda ko‘rsatadigan tizim yaratish. 
+## Turin x IT Park: AI Hackathon 2025
+Objective:
+To create a system that statistically analyzes and visually displays customer data based on their age, gender, and time spent in the car dealership.
 
-# Vazifalar:
-Ma’lumotlar modeli tuzish
-Mijozlar va ularning tashriflari uchun quyidagicha ma’lumotlar bazasi tuzing:
-Mijozlar jadvali:
+# Tasks:
+Build a data model.
+Create a database for customers and their visits with the following structure:
+
+Customers table:
+
 ID
-Ism
-Yosh
-Jins
-Telefon raqami
-Tashriflar jadvali:
-Tashrif ID
-Mijoz ID
-Kirish vaqti
-Chiqish vaqti
-Maqsadi (yangi mashina ko‘rish, servis, test drive, hujjatlar, va h.k.)
 
+Name
 
-Bu loyiha — avtosalonga tashrif buyuruvchi mijozlar, mavjud avtomobillar va kundalik sotuvlar asosida statistik tahlil va prognoz qilish imkonini beruvchi tizimdir. Loyihada foydalanuvchi uchun tushunarli vizualizatsiyalar, tahlillar va kelajak sotuvlarini bashorat qilish imkoniyati mavjud.
+Age
 
-sayt manzili : http://uzauto5a.beget.tech/
+Gender
 
+Phone number
 
-👨‍💻 Jamoa: TAHLILCHI
+Visits table:
+
+Visit ID
+
+Customer ID
+
+Entry time
+
+Exit time
+
+Purpose (viewing new cars, service, test drive, documentation, etc.)
+
+This project is a system that enables statistical analysis and forecasting based on customer visits, available vehicles, and daily sales at the car dealership.
+The system will include user-friendly visualizations, analysis tools, and future sales forecasting features.
+
+Website: http://uzauto5a.beget.tech/
+
+# 👨‍💻 Team: TAHLILCHI
